@@ -1,3 +1,4 @@
+
 This is a Java-based banking application developed as part of the CSE 2112 - Object-Oriented Programming (OOP) Course Project. It allows users to perform banking operations like deposits, withdrawals, PIN changes, and balance inquiries using a graphical user interface (GUI) built with Java Swing and JDBC for database connectivity.
 
 🔗 GitHub Repository: Bank Management System
@@ -18,6 +19,7 @@ Object-Oriented Programming (OOP) – For better code structure
 🛠️ Setup & Installation
 Clone the Repository
 git clone https://github.com/Ashif-Kayes/CSE-2112-OOP-PROJECT.git
+
 cd "bank management system"
 
 
